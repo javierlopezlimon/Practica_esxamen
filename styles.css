@@ -16,6 +16,7 @@ body {
     text-align: center;
     color: #fff;
     height: 100dvh;
+    overflow: auto;
     position: sticky;
     top: 0;
 }
