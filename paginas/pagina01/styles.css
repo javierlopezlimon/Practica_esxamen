@@ -22,11 +22,12 @@ body {
 }
 
 .lado-izquierda > img {
-    max-width: 50%;
+    max-width: 30%;
     object-fit: cover;
     border-radius: 50%;
     box-sizing: border-box;
     margin-top: 50px;
+    aspect-ratio: 1 / 1;
 }
 
 .texto-izquiedo {
